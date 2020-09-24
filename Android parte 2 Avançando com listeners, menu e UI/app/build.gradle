@@ -5,6 +5,7 @@ android {
     defaultConfig {
         applicationId "br.com.alura.agenda"
         minSdkVersion 19
+        overridePathCheck=true
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
